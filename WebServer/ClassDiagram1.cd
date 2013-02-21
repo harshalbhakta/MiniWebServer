@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TemplateLogger&lt;LogTemplate&gt;" Collapsed="true">
+    <Position X="8" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAQAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>TemplateLogger.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleLogger" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAEAAA=</HashCode>
+      <FileName>ConsoleLogger.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ErrorLogger" Collapsed="true">
+    <Position X="8" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>errorlogger.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileHandler" Collapsed="true">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAgAAAAAAAAAAACAIAAAEAAAAAAAEAAAAAACgA=</HashCode>
+      <FileName>FileHandler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileLogger" Collapsed="true">
+    <Position X="10.25" Y="4.5" Width="1.5" />
+    <InheritanceLine Type="MainLogger" ManuallyRouted="true">
+      <Path>
+        <Point X="8.75" Y="3.812" />
+        <Point X="8.75" Y="4.123" />
+        <Point X="11" Y="4.123" />
+        <Point X="11" Y="4.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>FileLogger.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GetMsg" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAQCQAhIAAQABAAAQCBAAgCEAAAEAAAABIABBEAAAE=</HashCode>
+      <FileName>GetMsg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logger" Collapsed="true">
+    <Position X="8" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAIAACAAAAIAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Logger.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainLogger" Collapsed="true">
+    <Position X="8" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAAQAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>MainLogger.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MessageHandler" Collapsed="true">
+    <Position X="1.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAI=</HashCode>
+      <FileName>MessageHandler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PostMsg" Collapsed="true">
+    <Position X="2.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAMAAAIAABAAADAAAAlAAQABABABAAgBAAABA=</HashCode>
+      <FileName>PostMsg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServerSocket" Collapsed="true">
+    <Position X="4.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Socket.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Socket" Collapsed="true">
+    <Position X="4.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACQAAAAAAAQABAgAAAAAUAAAAAAEQAAAAAAABAAAAg=</HashCode>
+      <FileName>Socket.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebServer" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAgAAAAAgAAMAAAAAgAAA=</HashCode>
+      <FileName>WebServer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

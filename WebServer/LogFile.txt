@@ -1,0 +1,2821 @@
+Testing Logger Static
+
+Testing Logger Static
+
+Testing Logger Static
+
+Testing Logger Static
+
+Testing Logger Static
+
+Testing Logger Static
+
+Testing Logger Static
+
+Testing Logger Static
+
+Logger Mode is now set
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+ Listening for client 
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+Server is now reading the Request
+
+ Listening for client 
+
+Accept: text/html, application/xhtml+xml, */*
+
+
+Accept-Language: en-US
+
+
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+
+
+Accept-Encoding: gzip, deflate
+
+
+Host: localhost
+
+
+Connection: Keep-Alive
+
+
+ Extracting information from GET Message 
+
+ Generating Post Message Now 
+
+Checking if requested file exists or not
+
+File exists
+
+Reading file for HTML content
+
+Server is now creating the response
+
+HTTP/1.1202 OK
+
+Sat Dec 11 03:44:51 2010 EST
+
+Server: 127.0.0.1
+
+Connection: Keep-Alive
+
+Content-Type: text/html; charset=ISO-8859-1
+
+Content-Length: 2791
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>Homepage</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>Homepage</b></td></tr> <tr><td>&nbsp;</td><a href='/Homepage.html'>Home</a></tr></table> <H1>Welcome to Mini Web Server Homepage</H1> </br>Please select the below pages to test the web server sample pages.</br></br><a href='/PageOne.html'>First Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageTwo.html'>Second Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageThree.html'>Third Page</a></br><H1>Content</H1> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> <font face=times color=#0039b6 size=6>CIS 554 OBJECT ORIENTED PROGRAMMING IN C++ - FINAL PROJECT</font></BR></BR><font face=times color=#c41200 size=5>PROJECT NAME  - WEB SERVER</font></BR></BR><font face=times color=#0039b6 size=5>PROJECT GROUP - J</font></BR></BR><font face=times color=#30a72f size=5>DEVELOPED BY :- </font></BR></BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face=times color=#0039b6 size=4.8>HARSHAL BHAKTA</font></BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face=times color=#c41200 size=4.8>SHAZIA BEE</font></BR></BR><font face=times color=#c41200 size=5>INSTRUCTED BY :-</font></BR></BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face=times color=#0039b6 size=5>Joseph Waclawski</font></body></html> 
+
+closing socket
+
+ Closing Socket 
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+Server is now reading the Request
+
+ Listening for client 
+
+Accept: text/html, application/xhtml+xml, */*
+
+
+Accept-Language: en-US
+
+
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+
+
+Accept-Encoding: gzip, deflate
+
+
+Host: localhost
+
+
+Connection: Keep-Alive
+
+
+ Extracting information from GET Message 
+
+ Generating Post Message Now 
+
+Checking if requested file exists or not
+
+File exists
+
+Reading file for HTML content
+
+Server is now creating the response
+
+HTTP/1.1202 OK
+
+Sat Dec 11 03:45:02 2010 EST
+
+Server: 127.0.0.1
+
+Connection: Keep-Alive
+
+Content-Type: text/html; charset=ISO-8859-1
+
+Content-Length: 2074
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>First Page</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>First Page</b></td></tr> <tr><td>&nbsp;</td><a href='/Homepage.html'>Home</a></tr></table> <H1>Welcome to Mini Web Server Homepage</H1> </br>Please select the below pages to test the web server sample pages.</br></br><a href='/PageOne.html'>First Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageTwo.html'>Second Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageThree.html'>Third Page</a></br><H1>Content</H1> <iframe src ="http://www.ecs.syr.edu/faculty/Waclawski/CIS554/" width="100%" height="800">  <p>Your browser does not support iframes.</p></iframe> <p> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> </body></html> 
+
+closing socket
+
+ Closing Socket 
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+ Listening for client 
+
+Server is now reading the Request
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+Server is now reading the Request
+
+ Listening for client 
+
+Accept: text/html, application/xhtml+xml, */*
+
+
+Referer: http://localhost/PageOne.html
+
+
+Accept-Language: en-US
+
+
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+
+
+Accept-Encoding: gzip, deflate
+
+
+Host: localhost
+
+
+Connection: Keep-Alive
+
+
+ Extracting information from GET Message 
+
+ Generating Post Message Now 
+
+Checking if requested file exists or not
+
+File exists
+
+Reading file for HTML content
+
+Accept: text/html, application/xhtml+xml, */*
+
+
+Referer: http://localhost/PageOne.html
+
+
+Accept-Language: en-US
+
+
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+
+
+Server is now creating the response
+
+Accept-Encoding: gzip, deflate
+
+
+HTTP/1.1202 OK
+
+Host: localhost
+
+
+Sat Dec 11 03:45:08 2010 EST
+
+Connection: Keep-Alive
+
+
+Server: 127.0.0.1
+
+Connection: Keep-Alive
+
+Content-Type: text/html; charset=ISO-8859-1
+
+ Extracting information from GET Message 
+
+Content-Length: 2048
+
+Begin the Socket : WSA
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>Second Page</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>Second Page</b></td></tr> <tr><td>&nbsp;</td><a href='/Homepage.html'>Home</a></tr></table> <H1>Welcome to Mini Web Server Homepage</H1> </br>Please select the below pages to test the web server sample pages.</br></br><a href='/PageOne.html'>First Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageTwo.html'>Second Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageThree.html'>Third Page</a></br><H1>Content</H1> <iframe src ="http://www.yahoo.com" width="100%" height="800">  <p>Your browser does not support iframes.</p></iframe> <p> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> </body></html> 
+
+closing socket
+
+Server is now listening for client
+
+Server is now reading the Request
+
+ Listening for client 
+
+ Closing Socket 
+
+Accept: text/html, application/xhtml+xml, */*
+
+
+Begin the Socket : WSA
+
+ Generating Post Message Now 
+
+Server is now listening for client
+
+Server is now reading the Request
+
+Checking if requested file exists or not
+
+Referer: http://localhost/PageOne.html
+
+
+File exists
+
+Accept-Language: en-US
+
+
+Reading file for HTML content
+
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+
+
+Accept-Encoding: gzip, deflate
+
+
+Host: localhost
+
+
+Connection: Keep-Alive
+
+
+ Listening for client 
+
+Server is now creating the response
+
+HTTP/1.1202 OK
+
+ Extracting information from GET Message 
+
+Sat Dec 11 03:45:14 2010 EST
+
+ Generating Post Message Now 
+
+Server: 127.0.0.1
+
+Checking if requested file exists or not
+
+Connection: Keep-Alive
+
+File exists
+
+Content-Type: text/html; charset=ISO-8859-1
+
+Reading file for HTML content
+
+Content-Length: 2048
+
+Server is now creating the response
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>Second Page</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>Second Page</b></td></tr> <tr><td>&nbsp;</td><a href='/Homepage.html'>Home</a></tr></table> <H1>Welcome to Mini Web Server Homepage</H1> </br>Please select the below pages to test the web server sample pages.</br></br><a href='/PageOne.html'>First Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageTwo.html'>Second Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageThree.html'>Third Page</a></br><H1>Content</H1> <iframe src ="http://www.yahoo.com" width="100%" height="800">  <p>Your browser does not support iframes.</p></iframe> <p> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> </body></html> 
+
+HTTP/1.1202 OK
+
+closing socket
+
+Sat Dec 11 03:45:16 2010 EST
+
+ Closing Socket 
+
+Server: 127.0.0.1
+
+Connection: Keep-Alive
+
+Content-Type: text/html; charset=ISO-8859-1
+
+Content-Length: 2037
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>Third Page</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>Third Page</b></td></tr> <tr><td>&nbsp;</td><a href='/Homepage.html'>Home</a></tr></table> <H1>Welcome to Mini Web Server Homepage</H1> </br>Please select the below pages to test the web server sample pages.</br></br><a href='/PageOne.html'>First Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageTwo.html'>Second Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageThree.html'>Third Page</a></br><H1>Content</H1> <img border="0" src="http://picasa.google.com/images/top1.jpg" alt="Pulpit rock" width="100%" height="500" /> <p> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> </body></html> 
+
+closing socket
+
+ Closing Socket 
+
+Logger Mode is now set
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+ Listening for client 
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+Server is now reading the Request
+
+ Listening for client 
+
+Host: 127.0.0.1
+
+
+Connection: keep-alive
+
+
+Accept: application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+
+
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.215 Safari/534.10
+
+
+Accept-Encoding: gzip,deflate,sdch
+
+
+Accept-Language: en-US,en;q=0.8
+
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+ Extracting information from GET Message 
+
+ Generating Post Message Now 
+
+Checking if requested file exists or not
+
+File exists
+
+Reading file for HTML content
+
+Server is now creating the response
+
+HTTP/1.1202 OK
+
+Sat Dec 11 03:45:56 2010 EST
+
+Server: 127.0.0.1
+
+Connection: keep-alive
+
+Content-Type: text/html; charset=ISO-8859-1
+
+Content-Length: 2791
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>Homepage</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>Homepage</b></td></tr> <tr><td>&nbsp;</td><a href='/Homepage.html'>Home</a></tr></table> <H1>Welcome to Mini Web Server Homepage</H1> </br>Please select the below pages to test the web server sample pages.</br></br><a href='/PageOne.html'>First Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageTwo.html'>Second Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageThree.html'>Third Page</a></br><H1>Content</H1> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> <font face=times color=#0039b6 size=6>CIS 554 OBJECT ORIENTED PROGRAMMING IN C++ - FINAL PROJECT</font></BR></BR><font face=times color=#c41200 size=5>PROJECT NAME  - WEB SERVER</font></BR></BR><font face=times color=#0039b6 size=5>PROJECT GROUP - J</font></BR></BR><font face=times color=#30a72f size=5>DEVELOPED BY :- </font></BR></BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face=times color=#0039b6 size=4.8>HARSHAL BHAKTA</font></BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face=times color=#c41200 size=4.8>SHAZIA BEE</font></BR></BR><font face=times color=#c41200 size=5>INSTRUCTED BY :-</font></BR></BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face=times color=#0039b6 size=5>Joseph Waclawski</font></body></html> 
+
+closing socket
+
+ Closing Socket 
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+Server is now reading the Request
+
+Host: 127.0.0.1
+
+
+ Listening for client 
+
+Connection: keep-alive
+
+
+Accept: */*
+
+
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.215 Safari/534.10
+
+
+Accept-Encoding: gzip,deflate,sdch
+
+
+Accept-Language: en-US,en;q=0.8
+
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+ Extracting information from GET Message 
+
+ Generating Post Message Now 
+
+Checking if requested file exists or not
+
+File does not exists
+
+File exists
+
+Reading file for HTML content
+
+Server is now creating the response
+
+HTTP/1.1 404 NOTFOUND
+
+Sat Dec 11 03:45:57 2010 EST
+
+Server: 127.0.0.1
+
+Connection: keep-alive
+
+Content-Type: text/html; charset=ISO-8859-1
+
+Content-Length: 1679
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>404 Not Found</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>Error</b></td></tr> <tr><td>&nbsp;</td></tr></table> <blockquote> <H1>404 Not Found</H1> The requested URL <code></code> was not found on this server. <p> </blockquote> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> </body></html> 
+
+closing socket
+
+ Closing Socket 
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+Server is now reading the Request
+
+ Listening for client 
+
+Host: 127.0.0.1
+
+
+Connection: keep-alive
+
+
+Referer: http://127.0.0.1/homepage.html
+
+
+Accept: application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+
+
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.215 Safari/534.10
+
+
+Accept-Encoding: gzip,deflate,sdch
+
+
+Accept-Language: en-US,en;q=0.8
+
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+ Extracting information from GET Message 
+
+ Generating Post Message Now 
+
+Checking if requested file exists or not
+
+File exists
+
+Reading file for HTML content
+
+Server is now creating the response
+
+HTTP/1.1202 OK
+
+Sat Dec 11 03:46:01 2010 EST
+
+Server: 127.0.0.1
+
+Connection: keep-alive
+
+Content-Type: text/html; charset=ISO-8859-1
+
+Content-Length: 2074
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>First Page</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>First Page</b></td></tr> <tr><td>&nbsp;</td><a href='/Homepage.html'>Home</a></tr></table> <H1>Welcome to Mini Web Server Homepage</H1> </br>Please select the below pages to test the web server sample pages.</br></br><a href='/PageOne.html'>First Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageTwo.html'>Second Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageThree.html'>Third Page</a></br><H1>Content</H1> <iframe src ="http://www.ecs.syr.edu/faculty/Waclawski/CIS554/" width="100%" height="800">  <p>Your browser does not support iframes.</p></iframe> <p> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> </body></html> 
+
+closing socket
+
+ Closing Socket 
+
+Begin the Socket : WSA
+
+Server is now listening for client
+Server is now reading the Request
+
+Host: 127.0.0.1
+
+
+Connection: keep-alive
+
+
+ Listening for client 
+
+Accept: */*
+
+
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.215 Safari/534.10
+
+
+Accept-Encoding: gzip,deflate,sdch
+
+
+Accept-Language: en-US,en;q=0.8
+
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+ Extracting information from GET Message 
+
+ Generating Post Message Now 
+
+Checking if requested file exists or not
+
+File does not exists
+
+File exists
+
+Reading file for HTML content
+
+Server is now creating the response
+
+HTTP/1.1 404 NOTFOUND
+
+Sat Dec 11 03:46:02 2010 EST
+
+Server: 127.0.0.1
+
+Connection: keep-alive
+
+Content-Type: text/html; charset=ISO-8859-1
+
+Content-Length: 1679
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>404 Not Found</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>Error</b></td></tr> <tr><td>&nbsp;</td></tr></table> <blockquote> <H1>404 Not Found</H1> The requested URL <code></code> was not found on this server. <p> </blockquote> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> </body></html> 
+
+closing socket
+
+ Closing Socket 
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+Server is now reading the Request
+
+ Listening for client 
+
+Host: 127.0.0.1
+
+
+Connection: keep-alive
+
+
+Referer: http://127.0.0.1/PageOne.html
+
+
+Accept: application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+
+
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.215 Safari/534.10
+
+
+Accept-Encoding: gzip,deflate,sdch
+
+
+Accept-Language: en-US,en;q=0.8
+
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+ Extracting information from GET Message 
+
+ Generating Post Message Now 
+
+Checking if requested file exists or not
+
+File exists
+
+Reading file for HTML content
+
+Server is now creating the response
+
+HTTP/1.1202 OK
+
+Sat Dec 11 03:46:03 2010 EST
+
+Server: 127.0.0.1
+
+Connection: keep-alive
+
+Content-Type: text/html; charset=ISO-8859-1
+
+Content-Length: 2048
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>Second Page</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>Second Page</b></td></tr> <tr><td>&nbsp;</td><a href='/Homepage.html'>Home</a></tr></table> <H1>Welcome to Mini Web Server Homepage</H1> </br>Please select the below pages to test the web server sample pages.</br></br><a href='/PageOne.html'>First Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageTwo.html'>Second Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageThree.html'>Third Page</a></br><H1>Content</H1> <iframe src ="http://www.yahoo.com" width="100%" height="800">  <p>Your browser does not support iframes.</p></iframe> <p> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> </body></html> 
+
+closing socket
+
+ Closing Socket 
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+Server is now reading the Request
+
+ Listening for client 
+
+Host: 127.0.0.1
+
+
+Begin the Socket : WSA
+
+Connection: keep-alive
+
+
+Server is now listening for client
+
+Referer: http://127.0.0.1/PageTwo.html
+
+
+ Listening for client 
+
+Server is now reading the Request
+
+Accept: application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+
+
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.215 Safari/534.10
+
+
+Host: 127.0.0.1
+
+
+Accept-Encoding: gzip,deflate,sdch
+
+
+Connection: keep-alive
+
+
+Accept-Language: en-US,en;q=0.8
+
+
+Accept: */*
+
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.215 Safari/534.10
+
+
+Accept-Encoding: gzip,deflate,sdch
+
+
+ Extracting information from GET Message 
+
+Accept-Language: en-US,en;q=0.8
+
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+ Extracting information from GET Message 
+
+ Generating Post Message Now 
+
+Checking if requested file exists or not
+
+File exists
+
+Reading file for HTML content
+
+ Generating Post Message Now 
+
+Checking if requested file exists or not
+
+File does not exists
+
+File exists
+
+Reading file for HTML content
+
+Server is now creating the response
+
+Server is now creating the response
+
+HTTP/1.1 404 NOTFOUND
+
+HTTP/1.1202 OK
+
+Sat Dec 11 03:46:06 2010 EST
+
+Sat Dec 11 03:46:06 2010 EST
+
+Server: 127.0.0.1
+
+Server: 127.0.0.1
+
+Connection: keep-alive
+
+Connection: keep-alive
+
+Content-Type: text/html; charset=ISO-8859-1
+
+Content-Type: text/html; charset=ISO-8859-1
+
+Content-Length: 1679
+
+Content-Length: 2037
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>404 Not Found</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>Error</b></td></tr> <tr><td>&nbsp;</td></tr></table> <blockquote> <H1>404 Not Found</H1> The requested URL <code></code> was not found on this server. <p> </blockquote> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> </body></html> 
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>Third Page</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>Third Page</b></td></tr> <tr><td>&nbsp;</td><a href='/Homepage.html'>Home</a></tr></table> <H1>Welcome to Mini Web Server Homepage</H1> </br>Please select the below pages to test the web server sample pages.</br></br><a href='/PageOne.html'>First Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageTwo.html'>Second Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageThree.html'>Third Page</a></br><H1>Content</H1> <img border="0" src="http://picasa.google.com/images/top1.jpg" alt="Pulpit rock" width="100%" height="500" /> <p> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> </body></html> 
+
+closing socket
+
+closing socket
+
+ Closing Socket 
+
+ Closing Socket 
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+Server is now reading the Request
+
+ Listening for client 
+
+Host: 127.0.0.1
+
+
+Connection: keep-alive
+
+
+Accept: */*
+
+
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.215 Safari/534.10
+
+
+Accept-Encoding: gzip,deflate,sdch
+
+
+Accept-Language: en-US,en;q=0.8
+
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+ Extracting information from GET Message 
+
+ Generating Post Message Now 
+
+Checking if requested file exists or not
+
+File does not exists
+
+File exists
+
+Reading file for HTML content
+
+Server is now creating the response
+
+HTTP/1.1 404 NOTFOUND
+
+Sat Dec 11 03:46:08 2010 EST
+
+Server: 127.0.0.1
+
+Connection: keep-alive
+
+Content-Type: text/html; charset=ISO-8859-1
+
+Content-Length: 1679
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>404 Not Found</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>Error</b></td></tr> <tr><td>&nbsp;</td></tr></table> <blockquote> <H1>404 Not Found</H1> The requested URL <code></code> was not found on this server. <p> </blockquote> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> </body></html> 
+
+closing socket
+
+ Closing Socket 
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+Server is now reading the Request
+
+ Listening for client 
+
+Host: 127.0.0.1
+
+
+Connection: keep-alive
+
+
+Referer: http://127.0.0.1/PageThree.html
+
+
+Accept: application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+
+
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.215 Safari/534.10
+
+
+Accept-Encoding: gzip,deflate,sdch
+
+
+Accept-Language: en-US,en;q=0.8
+
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+ Extracting information from GET Message 
+
+ Generating Post Message Now 
+
+Checking if requested file exists or not
+
+File exists
+
+Reading file for HTML content
+
+Server is now creating the response
+
+HTTP/1.1202 OK
+
+Sat Dec 11 03:46:15 2010 EST
+
+Server: 127.0.0.1
+
+Connection: keep-alive
+
+Content-Type: text/html; charset=ISO-8859-1
+
+Content-Length: 2791
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>Homepage</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>Homepage</b></td></tr> <tr><td>&nbsp;</td><a href='/Homepage.html'>Home</a></tr></table> <H1>Welcome to Mini Web Server Homepage</H1> </br>Please select the below pages to test the web server sample pages.</br></br><a href='/PageOne.html'>First Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageTwo.html'>Second Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageThree.html'>Third Page</a></br><H1>Content</H1> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> <font face=times color=#0039b6 size=6>CIS 554 OBJECT ORIENTED PROGRAMMING IN C++ - FINAL PROJECT</font></BR></BR><font face=times color=#c41200 size=5>PROJECT NAME  - WEB SERVER</font></BR></BR><font face=times color=#0039b6 size=5>PROJECT GROUP - J</font></BR></BR><font face=times color=#30a72f size=5>DEVELOPED BY :- </font></BR></BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face=times color=#0039b6 size=4.8>HARSHAL BHAKTA</font></BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face=times color=#c41200 size=4.8>SHAZIA BEE</font></BR></BR><font face=times color=#c41200 size=5>INSTRUCTED BY :-</font></BR></BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face=times color=#0039b6 size=5>Joseph Waclawski</font></body></html> 
+
+closing socket
+
+ Closing Socket 
+
+Begin the Socket : WSA
+
+Server is now listening for client
+Server is now reading the Request
+
+
+ Listening for client 
+
+Host: 127.0.0.1
+
+
+Connection: keep-alive
+
+
+Accept: */*
+
+
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.215 Safari/534.10
+
+
+Accept-Encoding: gzip,deflate,sdch
+
+
+Accept-Language: en-US,en;q=0.8
+
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+ Extracting information from GET Message 
+
+ Generating Post Message Now 
+
+Checking if requested file exists or not
+
+File does not exists
+
+File exists
+
+Reading file for HTML content
+
+Server is now creating the response
+
+HTTP/1.1 404 NOTFOUND
+
+Sat Dec 11 03:46:16 2010 EST
+
+Server: 127.0.0.1
+
+Connection: keep-alive
+
+Content-Type: text/html; charset=ISO-8859-1
+
+Content-Length: 1679
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>404 Not Found</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>Error</b></td></tr> <tr><td>&nbsp;</td></tr></table> <blockquote> <H1>404 Not Found</H1> The requested URL <code></code> was not found on this server. <p> </blockquote> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> </body></html> 
+
+closing socket
+
+ Closing Socket 
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+Server is now reading the Request
+
+ Listening for client 
+
+Host: 127.0.0.1
+
+
+Connection: keep-alive
+
+
+Referer: http://127.0.0.1/Homepage.html
+
+
+Accept: application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+
+
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.215 Safari/534.10
+
+
+Accept-Encoding: gzip,deflate,sdch
+
+
+Accept-Language: en-US,en;q=0.8
+
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+ Extracting information from GET Message 
+
+ Generating Post Message Now 
+
+Checking if requested file exists or not
+
+File exists
+
+Reading file for HTML content
+
+Server is now creating the response
+
+HTTP/1.1202 OK
+
+Sat Dec 11 03:46:18 2010 EST
+
+Server: 127.0.0.1
+
+Connection: keep-alive
+
+Content-Type: text/html; charset=ISO-8859-1
+
+Content-Length: 2074
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>First Page</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>First Page</b></td></tr> <tr><td>&nbsp;</td><a href='/Homepage.html'>Home</a></tr></table> <H1>Welcome to Mini Web Server Homepage</H1> </br>Please select the below pages to test the web server sample pages.</br></br><a href='/PageOne.html'>First Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageTwo.html'>Second Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageThree.html'>Third Page</a></br><H1>Content</H1> <iframe src ="http://www.ecs.syr.edu/faculty/Waclawski/CIS554/" width="100%" height="800">  <p>Your browser does not support iframes.</p></iframe> <p> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> </body></html> 
+
+closing socket
+
+ Closing Socket 
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+Server is now reading the Request
+
+ Listening for client 
+
+Host: 127.0.0.1
+
+
+Connection: keep-alive
+
+
+Accept: */*
+
+
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.215 Safari/534.10
+
+
+Accept-Encoding: gzip,deflate,sdch
+
+
+Accept-Language: en-US,en;q=0.8
+
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+ Extracting information from GET Message 
+
+ Generating Post Message Now 
+
+Checking if requested file exists or not
+
+File does not exists
+
+File exists
+
+Reading file for HTML content
+
+Server is now creating the response
+
+HTTP/1.1 404 NOTFOUND
+
+Sat Dec 11 03:46:19 2010 EST
+
+Server: 127.0.0.1
+
+Connection: keep-alive
+
+Content-Type: text/html; charset=ISO-8859-1
+
+Content-Length: 1679
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>404 Not Found</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>Error</b></td></tr> <tr><td>&nbsp;</td></tr></table> <blockquote> <H1>404 Not Found</H1> The requested URL <code></code> was not found on this server. <p> </blockquote> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> </body></html> 
+
+closing socket
+
+ Closing Socket 
+
+Logger Mode is now set
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+ Listening for client 
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+Server is now reading the Request
+
+ Listening for client 
+
+Logger Mode is now set
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+ Listening for client 
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+Server is now reading the Request
+
+ Listening for client 
+
+Accept: text/html, application/xhtml+xml, */*
+
+
+Begin the Socket : WSA
+
+Accept-Language: en-US
+
+
+Server is now listening for client
+
+Server is now reading the Request
+
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+
+
+ Listening for client 
+
+Accept-Encoding: gzip, deflate
+
+
+Host: localhost
+
+
+Connection: Keep-Alive
+
+
+ Extracting information from GET Message 
+
+ Generating Post Message Now 
+
+Checking if requested file exists or not
+
+File exists
+
+Reading file for HTML content
+
+Server is now creating the response
+
+HTTP/1.1202 OK
+
+Sat Dec 11 04:52:48 2010 EST
+
+Server: 127.0.0.1
+
+Connection: Keep-Alive
+
+Content-Type: text/html; charset=ISO-8859-1
+
+Content-Length: 2791
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>Homepage</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>Homepage</b></td></tr> <tr><td>&nbsp;</td><a href='/Homepage.html'>Home</a></tr></table> <H1>Welcome to Mini Web Server Homepage</H1> </br>Please select the below pages to test the web server sample pages.</br></br><a href='/PageOne.html'>First Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageTwo.html'>Second Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageThree.html'>Third Page</a></br><H1>Content</H1> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> <font face=times color=#0039b6 size=6>CIS 554 OBJECT ORIENTED PROGRAMMING IN C++ - FINAL PROJECT</font></BR></BR><font face=times color=#c41200 size=5>PROJECT NAME  - WEB SERVER</font></BR></BR><font face=times color=#0039b6 size=5>PROJECT GROUP - J</font></BR></BR><font face=times color=#30a72f size=5>DEVELOPED BY :- </font></BR></BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face=times color=#0039b6 size=4.8>HARSHAL BHAKTA</font></BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face=times color=#c41200 size=4.8>SHAZIA BEE</font></BR></BR><font face=times color=#c41200 size=5>INSTRUCTED BY :-</font></BR></BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face=times color=#0039b6 size=5>Joseph Waclawski</font></body></html> 
+
+closing socket
+
+ Closing Socket 
+
+Accept: text/html, application/xhtml+xml, */*
+
+
+Referer: http://localhost/homepage.html
+
+
+Accept-Language: en-US
+
+
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+
+
+Accept-Encoding: gzip, deflate
+
+
+Host: localhost
+
+
+Connection: Keep-Alive
+
+
+ Extracting information from GET Message 
+
+ Generating Post Message Now 
+
+Checking if requested file exists or not
+
+File exists
+
+Reading file for HTML content
+
+Server is now creating the response
+
+HTTP/1.1202 OK
+
+Sat Dec 11 04:52:52 2010 EST
+
+Server: 127.0.0.1
+
+Connection: Keep-Alive
+
+Content-Type: text/html; charset=ISO-8859-1
+
+Content-Length: 2074
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>First Page</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>First Page</b></td></tr> <tr><td>&nbsp;</td><a href='/Homepage.html'>Home</a></tr></table> <H1>Welcome to Mini Web Server Homepage</H1> </br>Please select the below pages to test the web server sample pages.</br></br><a href='/PageOne.html'>First Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageTwo.html'>Second Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageThree.html'>Third Page</a></br><H1>Content</H1> <iframe src ="http://www.ecs.syr.edu/faculty/Waclawski/CIS554/" width="100%" height="800">  <p>Your browser does not support iframes.</p></iframe> <p> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> </body></html> 
+
+closing socket
+
+ Closing Socket 
+
+Logger Mode is now set
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+ Listening for client 
+
+Logger Mode is now set
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+ Listening for client 
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+Server is now reading the Request
+
+ Listening for client 
+
+Logger Mode is now set
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+ Listening for client 
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+Server is now reading the Request
+
+ Listening for client 
+
+Begin the Socket : WSA
+
+Logger Mode is now set
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+ Listening for client 
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+Server is now reading the Request
+
+ Listening for client 
+
+Begin the Socket : WSA
+
+Begin the Socket : WSA
+
+Accept: text/html, application/xhtml+xml, */*
+
+
+Server is now listening for client
+
+Server is now reading the Request
+
+Accept-Language: en-US
+
+
+ Listening for client 
+
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+
+
+Begin the Socket : WSA
+
+Accept-Encoding: gzip, deflate
+
+
+Host: localhost
+
+
+Connection: Keep-Alive
+
+
+ Extracting information from GET Message 
+
+ Generating Post Message Now 
+
+Checking if requested file exists or not
+
+File exists
+
+Reading file for HTML content
+
+Server is now creating the response
+
+HTTP/1.1202 OK
+
+Sat Dec 11 05:06:01 2010 EST
+
+Server: 127.0.0.1
+
+Connection: Keep-Alive
+
+Content-Type: text/html; charset=ISO-8859-1
+
+Content-Length: 2074
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>First Page</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>First Page</b></td></tr> <tr><td>&nbsp;</td><a href='/Homepage.html'>Home</a></tr></table> <H1>Welcome to Mini Web Server Homepage</H1> </br>Please select the below pages to test the web server sample pages.</br></br><a href='/PageOne.html'>First Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageTwo.html'>Second Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageThree.html'>Third Page</a></br><H1>Content</H1> <iframe src ="http://www.ecs.syr.edu/faculty/Waclawski/CIS554/" width="100%" height="800">  <p>Your browser does not support iframes.</p></iframe> <p> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> </body></html> 
+
+closing socket
+
+ Closing Socket 
+
+Accept: text/html, application/xhtml+xml, */*
+
+
+Referer: http://localhost/PageOne.html
+
+
+Accept-Language: en-US
+
+
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+
+
+Accept-Encoding: gzip, deflate
+
+
+Host: localhost
+
+
+Connection: Keep-Alive
+
+
+ Extracting information from GET Message 
+
+ Generating Post Message Now 
+
+Checking if requested file exists or not
+
+File exists
+
+Reading file for HTML content
+
+Server is now creating the response
+
+HTTP/1.1202 OK
+
+Sat Dec 11 05:06:04 2010 EST
+
+Server: 127.0.0.1
+
+Connection: Keep-Alive
+
+Content-Type: text/html; charset=ISO-8859-1
+
+Content-Length: 2791
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>Homepage</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>Homepage</b></td></tr> <tr><td>&nbsp;</td><a href='/Homepage.html'>Home</a></tr></table> <H1>Welcome to Mini Web Server Homepage</H1> </br>Please select the below pages to test the web server sample pages.</br></br><a href='/PageOne.html'>First Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageTwo.html'>Second Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageThree.html'>Third Page</a></br><H1>Content</H1> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> <font face=times color=#0039b6 size=6>CIS 554 OBJECT ORIENTED PROGRAMMING IN C++ - FINAL PROJECT</font></BR></BR><font face=times color=#c41200 size=5>PROJECT NAME  - WEB SERVER</font></BR></BR><font face=times color=#0039b6 size=5>PROJECT GROUP - J</font></BR></BR><font face=times color=#30a72f size=5>DEVELOPED BY :- </font></BR></BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face=times color=#0039b6 size=4.8>HARSHAL BHAKTA</font></BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face=times color=#c41200 size=4.8>SHAZIA BEE</font></BR></BR><font face=times color=#c41200 size=5>INSTRUCTED BY :-</font></BR></BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face=times color=#0039b6 size=5>Joseph Waclawski</font></body></html> 
+
+closing socket
+
+ Closing Socket 
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+Server is now reading the Request
+
+ Listening for client 
+
+Begin the Socket : WSA
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+Server is now reading the Request
+
+ Listening for client 
+
+Begin the Socket : WSA
+
+Accept: text/html, application/xhtml+xml, */*
+
+
+Referer: http://localhost/Homepage.html
+
+
+Accept-Language: en-US
+
+
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+
+
+Accept-Encoding: gzip, deflate
+
+
+Host: localhost
+
+
+Connection: Keep-Alive
+
+
+ Extracting information from GET Message 
+
+ Generating Post Message Now 
+
+Checking if requested file exists or not
+
+File exists
+
+Reading file for HTML content
+
+Server is now creating the response
+
+HTTP/1.1202 OK
+
+Sat Dec 11 05:06:06 2010 EST
+
+Server: 127.0.0.1
+
+Connection: Keep-Alive
+
+Content-Type: text/html; charset=ISO-8859-1
+
+Content-Length: 2074
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>First Page</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>First Page</b></td></tr> <tr><td>&nbsp;</td><a href='/Homepage.html'>Home</a></tr></table> <H1>Welcome to Mini Web Server Homepage</H1> </br>Please select the below pages to test the web server sample pages.</br></br><a href='/PageOne.html'>First Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageTwo.html'>Second Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageThree.html'>Third Page</a></br><H1>Content</H1> <iframe src ="http://www.ecs.syr.edu/faculty/Waclawski/CIS554/" width="100%" height="800">  <p>Your browser does not support iframes.</p></iframe> <p> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> </body></html> 
+
+closing socket
+
+ Closing Socket 
+
+Accept: text/html, application/xhtml+xml, */*
+
+
+Referer: http://localhost/PageOne.html
+
+
+Accept-Language: en-US
+
+
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+
+
+Accept-Encoding: gzip, deflate
+
+
+Host: localhost
+
+
+Connection: Keep-Alive
+
+
+ Extracting information from GET Message 
+
+ Generating Post Message Now 
+
+Checking if requested file exists or not
+
+File exists
+
+Reading file for HTML content
+
+Server is now creating the response
+
+HTTP/1.1202 OK
+
+Sat Dec 11 05:06:09 2010 EST
+
+Server: 127.0.0.1
+
+Connection: Keep-Alive
+
+Content-Type: text/html; charset=ISO-8859-1
+
+Content-Length: 2037
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>Third Page</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>Third Page</b></td></tr> <tr><td>&nbsp;</td><a href='/Homepage.html'>Home</a></tr></table> <H1>Welcome to Mini Web Server Homepage</H1> </br>Please select the below pages to test the web server sample pages.</br></br><a href='/PageOne.html'>First Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageTwo.html'>Second Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageThree.html'>Third Page</a></br><H1>Content</H1> <img border="0" src="http://picasa.google.com/images/top1.jpg" alt="Pulpit rock" width="100%" height="500" /> <p> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> </body></html> 
+
+closing socket
+
+ Closing Socket 
+
+Logger Mode is now set
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+ Listening for client 
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+ Listening for client 
+
+Server is now reading the Request
+
+Begin the Socket : WSA
+
+Accept: text/html, application/xhtml+xml, */*
+
+
+Accept-Language: en-US
+
+
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+
+
+Accept-Encoding: gzip, deflate
+
+
+Host: localhost
+
+
+Connection: Keep-Alive
+
+
+ Extracting information from GET Message 
+
+ Generating Post Message Now 
+
+Checking if requested file exists or not
+
+File exists
+
+Reading file for HTML content
+
+Server is now creating the response
+
+HTTP/1.1202 OK
+
+Sat Dec 11 05:14:52 2010 EST
+
+Server: 127.0.0.1
+
+Connection: Keep-Alive
+
+Content-Type: text/html; charset=ISO-8859-1
+
+Content-Length: 2791
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>Homepage</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>Homepage</b></td></tr> <tr><td>&nbsp;</td><a href='/Homepage.html'>Home</a></tr></table> <H1>Welcome to Mini Web Server Homepage</H1> </br>Please select the below pages to test the web server sample pages.</br></br><a href='/PageOne.html'>First Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageTwo.html'>Second Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageThree.html'>Third Page</a></br><H1>Content</H1> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> <font face=times color=#0039b6 size=6>CIS 554 OBJECT ORIENTED PROGRAMMING IN C++ - FINAL PROJECT</font></BR></BR><font face=times color=#c41200 size=5>PROJECT NAME  - WEB SERVER</font></BR></BR><font face=times color=#0039b6 size=5>PROJECT GROUP - J</font></BR></BR><font face=times color=#30a72f size=5>DEVELOPED BY :- </font></BR></BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face=times color=#0039b6 size=4.8>HARSHAL BHAKTA</font></BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face=times color=#c41200 size=4.8>SHAZIA BEE</font></BR></BR><font face=times color=#c41200 size=5>INSTRUCTED BY :-</font></BR></BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face=times color=#0039b6 size=5>Joseph Waclawski</font></body></html> 
+
+closing socket
+
+ Closing Socket 
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+Server is now reading the Request
+
+ Listening for client 
+
+Begin the Socket : WSA
+
+Accept: text/html, application/xhtml+xml, */*
+
+
+Referer: http://localhost/homepage.html
+
+
+Accept-Language: en-US
+
+
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+
+
+Accept-Encoding: gzip, deflate
+
+
+Host: localhost
+
+
+Connection: Keep-Alive
+
+
+ Extracting information from GET Message 
+
+ Generating Post Message Now 
+
+Checking if requested file exists or not
+
+File exists
+
+Reading file for HTML content
+
+Server is now creating the response
+
+HTTP/1.1202 OK
+
+Sat Dec 11 05:15:00 2010 EST
+
+Server: 127.0.0.1
+
+Connection: Keep-Alive
+
+Content-Type: text/html; charset=ISO-8859-1
+
+Content-Length: 2074
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>First Page</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>First Page</b></td></tr> <tr><td>&nbsp;</td><a href='/Homepage.html'>Home</a></tr></table> <H1>Welcome to Mini Web Server Homepage</H1> </br>Please select the below pages to test the web server sample pages.</br></br><a href='/PageOne.html'>First Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageTwo.html'>Second Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageThree.html'>Third Page</a></br><H1>Content</H1> <iframe src ="http://www.ecs.syr.edu/faculty/Waclawski/CIS554/" width="100%" height="800">  <p>Your browser does not support iframes.</p></iframe> <p> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> </body></html> 
+
+closing socket
+
+ Closing Socket 
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+Server is now reading the Request
+
+ Listening for client 
+
+Begin the Socket : WSA
+
+Begin the Socket : WSA
+
+Server is now listening for client
+Server is now reading the Request
+
+Begin the Socket : WSA
+
+ Listening for client 
+
+Host: localhost
+
+
+Connection: keep-alive
+
+
+Accept: application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+
+
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.215 Safari/534.10
+
+
+Accept-Encoding: gzip,deflate,sdch
+
+
+Accept-Language: en-US,en;q=0.8
+
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+ Extracting information from GET Message 
+
+ Generating Post Message Now 
+
+Checking if requested file exists or not
+
+File does not exists
+
+File exists
+
+Reading file for HTML content
+
+Begin the Socket : WSA
+
+Server is now reading the Request
+
+
+
+ Listening for client 
+
+Begin the Socket : WSA
+
+Server is now creating the response
+
+HTTP/1.1 404 NOTFOUND
+
+Sat Dec 11 05:15:07 2010 EST
+
+Server: 127.0.0.1
+
+Connection: keep-alive
+
+Content-Type: text/html; charset=ISO-8859-1
+
+Content-Length: 1679
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>404 Not Found</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>Error</b></td></tr> <tr><td>&nbsp;</td></tr></table> <blockquote> <H1>404 Not Found</H1> The requested URL <code></code> was not found on this server. <p> </blockquote> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> </body></html> 
+
+closing socket
+
+ Closing Socket 
+
+Host: localhost
+
+
+Connection: keep-alive
+
+
+Accept: */*
+
+
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.215 Safari/534.10
+
+
+Accept-Encoding: gzip,deflate,sdch
+
+
+Accept-Language: en-US,en;q=0.8
+
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+ Extracting information from GET Message 
+
+ Generating Post Message Now 
+
+Checking if requested file exists or not
+
+File does not exists
+
+File exists
+
+Reading file for HTML content
+
+Server is now creating the response
+
+HTTP/1.1 404 NOTFOUND
+
+Sat Dec 11 05:15:08 2010 EST
+
+Server: 127.0.0.1
+
+Connection: keep-alive
+
+Content-Type: text/html; charset=ISO-8859-1
+
+Content-Length: 1679
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>404 Not Found</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>Error</b></td></tr> <tr><td>&nbsp;</td></tr></table> <blockquote> <H1>404 Not Found</H1> The requested URL <code></code> was not found on this server. <p> </blockquote> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> </body></html> 
+
+closing socket
+
+ Closing Socket 
+
+ Extracting information from GET Message 
+
+ Generating Post Message Now 
+
+Checking if requested file exists or not
+
+File does not exists
+
+File exists
+
+Reading file for HTML content
+
+Server is now creating the response
+
+ 404 NOTFOUND
+
+Sat Dec 11 05:15:13 2010 EST
+
+Server: 127.0.0.1
+
+Connection: 
+
+Content-Type: text/html; charset=ISO-8859-1
+
+Content-Length: 1679
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>404 Not Found</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>Error</b></td></tr> <tr><td>&nbsp;</td></tr></table> <blockquote> <H1>404 Not Found</H1> The requested URL <code></code> was not found on this server. <p> </blockquote> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> </body></html> 
+
+closing socket
+
+ Closing Socket 
+
+Logger Mode is now set
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+ Listening for client 
+
+Begin the Socket : WSA
+
+Server is now listening for client
+Server is now reading the Request
+
+
+ Listening for client 
+
+Begin the Socket : WSA
+
+Host: localhost
+
+
+Connection: keep-alive
+
+
+Accept: application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+
+
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.215 Safari/534.10
+
+
+Accept-Encoding: gzip,deflate,sdch
+
+
+Accept-Language: en-US,en;q=0.8
+
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+ Extracting information from GET Message 
+
+ Generating Post Message Now 
+
+Checking if requested file exists or not
+
+File exists
+
+Begin the Socket : WSA
+
+Reading file for HTML content
+
+Server is now reading the Request
+Server is now listening for client
+
+Begin the Socket : WSA
+
+ Listening for client 
+
+Server is now creating the response
+
+HTTP/1.1202 OK
+
+Sat Dec 11 05:15:33 2010 EST
+
+Server: 127.0.0.1
+
+Connection: keep-alive
+
+Content-Type: text/html; charset=ISO-8859-1
+
+Content-Length: 2791
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>Homepage</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>Homepage</b></td></tr> <tr><td>&nbsp;</td><a href='/Homepage.html'>Home</a></tr></table> <H1>Welcome to Mini Web Server Homepage</H1> </br>Please select the below pages to test the web server sample pages.</br></br><a href='/PageOne.html'>First Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageTwo.html'>Second Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageThree.html'>Third Page</a></br><H1>Content</H1> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> <font face=times color=#0039b6 size=6>CIS 554 OBJECT ORIENTED PROGRAMMING IN C++ - FINAL PROJECT</font></BR></BR><font face=times color=#c41200 size=5>PROJECT NAME  - WEB SERVER</font></BR></BR><font face=times color=#0039b6 size=5>PROJECT GROUP - J</font></BR></BR><font face=times color=#30a72f size=5>DEVELOPED BY :- </font></BR></BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face=times color=#0039b6 size=4.8>HARSHAL BHAKTA</font></BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face=times color=#c41200 size=4.8>SHAZIA BEE</font></BR></BR><font face=times color=#c41200 size=5>INSTRUCTED BY :-</font></BR></BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face=times color=#0039b6 size=5>Joseph Waclawski</font></body></html> 
+
+closing socket
+
+ Closing Socket 
+
+Host: localhost
+
+
+Connection: keep-alive
+
+
+Accept: */*
+
+
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.215 Safari/534.10
+
+
+Accept-Encoding: gzip,deflate,sdch
+
+
+Accept-Language: en-US,en;q=0.8
+
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+ Extracting information from GET Message 
+
+ Generating Post Message Now 
+
+Checking if requested file exists or not
+
+File does not exists
+
+File exists
+
+Reading file for HTML content
+
+Server is now creating the response
+
+HTTP/1.1 404 NOTFOUND
+
+Sat Dec 11 05:15:34 2010 EST
+
+Server: 127.0.0.1
+
+Connection: keep-alive
+
+Content-Type: text/html; charset=ISO-8859-1
+
+Content-Length: 1679
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>404 Not Found</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>Error</b></td></tr> <tr><td>&nbsp;</td></tr></table> <blockquote> <H1>404 Not Found</H1> The requested URL <code></code> was not found on this server. <p> </blockquote> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> </body></html> 
+
+closing socket
+
+ Closing Socket 
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+Server is now reading the Request
+
+ Listening for client 
+
+Begin the Socket : WSA
+
+Accept: text/html, application/xhtml+xml, */*
+
+
+Accept-Language: en-US
+
+
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+
+
+Accept-Encoding: gzip, deflate
+
+
+Host: localhost
+
+
+Connection: Keep-Alive
+
+
+ Extracting information from GET Message 
+
+ Generating Post Message Now 
+
+Checking if requested file exists or not
+
+File exists
+
+Reading file for HTML content
+
+Server is now creating the response
+
+HTTP/1.1202 OK
+
+Sat Dec 11 05:15:59 2010 EST
+
+Server: 127.0.0.1
+
+Connection: Keep-Alive
+
+Content-Type: text/html; charset=ISO-8859-1
+
+Content-Length: 2791
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>Homepage</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>Homepage</b></td></tr> <tr><td>&nbsp;</td><a href='/Homepage.html'>Home</a></tr></table> <H1>Welcome to Mini Web Server Homepage</H1> </br>Please select the below pages to test the web server sample pages.</br></br><a href='/PageOne.html'>First Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageTwo.html'>Second Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageThree.html'>Third Page</a></br><H1>Content</H1> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> <font face=times color=#0039b6 size=6>CIS 554 OBJECT ORIENTED PROGRAMMING IN C++ - FINAL PROJECT</font></BR></BR><font face=times color=#c41200 size=5>PROJECT NAME  - WEB SERVER</font></BR></BR><font face=times color=#0039b6 size=5>PROJECT GROUP - J</font></BR></BR><font face=times color=#30a72f size=5>DEVELOPED BY :- </font></BR></BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face=times color=#0039b6 size=4.8>HARSHAL BHAKTA</font></BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face=times color=#c41200 size=4.8>SHAZIA BEE</font></BR></BR><font face=times color=#c41200 size=5>INSTRUCTED BY :-</font></BR></BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face=times color=#0039b6 size=5>Joseph Waclawski</font></body></html> 
+
+closing socket
+
+ Closing Socket 
+
+Begin the Socket : WSA
+
+Server is now listening for client
+Server is now reading the Request
+
+
+Begin the Socket : WSA
+
+ Listening for client 
+
+Accept: text/html, application/xhtml+xml, */*
+
+
+Accept-Language: en-US
+
+
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+
+
+Accept-Encoding: gzip, deflate
+
+
+Host: localhost
+
+
+Connection: Keep-Alive
+
+
+ Extracting information from GET Message 
+
+ Generating Post Message Now 
+
+Checking if requested file exists or not
+
+File exists
+
+Reading file for HTML content
+
+Server is now creating the response
+
+HTTP/1.1202 OK
+
+Sat Dec 11 05:16:11 2010 EST
+
+Server: 127.0.0.1
+
+Connection: Keep-Alive
+
+Content-Type: text/html; charset=ISO-8859-1
+
+Content-Length: 2048
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>Second Page</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>Second Page</b></td></tr> <tr><td>&nbsp;</td><a href='/Homepage.html'>Home</a></tr></table> <H1>Welcome to Mini Web Server Homepage</H1> </br>Please select the below pages to test the web server sample pages.</br></br><a href='/PageOne.html'>First Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageTwo.html'>Second Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageThree.html'>Third Page</a></br><H1>Content</H1> <iframe src ="http://www.yahoo.com" width="100%" height="800">  <p>Your browser does not support iframes.</p></iframe> <p> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> </body></html> 
+
+closing socket
+
+ Closing Socket 
+
+Begin the Socket : WSA
+
+Server is now reading the Request
+
+
+
+ Listening for client 
+
+Begin the Socket : WSA
+
+Accept: text/html, application/xhtml+xml, */*
+
+
+Accept-Language: en-US
+
+
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+
+
+Accept-Encoding: gzip, deflate
+
+
+Host: localhost
+
+
+Connection: Keep-Alive
+
+
+ Extracting information from GET Message 
+
+ Generating Post Message Now 
+
+Checking if requested file exists or not
+
+File exists
+
+Reading file for HTML content
+
+Server is now creating the response
+
+HTTP/1.1202 OK
+
+Sat Dec 11 05:16:36 2010 EST
+
+Server: 127.0.0.1
+
+Connection: Keep-Alive
+
+Content-Type: text/html; charset=ISO-8859-1
+
+Content-Length: 2791
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>Homepage</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>Homepage</b></td></tr> <tr><td>&nbsp;</td><a href='/Homepage.html'>Home</a></tr></table> <H1>Welcome to Mini Web Server Homepage</H1> </br>Please select the below pages to test the web server sample pages.</br></br><a href='/PageOne.html'>First Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageTwo.html'>Second Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageThree.html'>Third Page</a></br><H1>Content</H1> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> <font face=times color=#0039b6 size=6>CIS 554 OBJECT ORIENTED PROGRAMMING IN C++ - FINAL PROJECT</font></BR></BR><font face=times color=#c41200 size=5>PROJECT NAME  - WEB SERVER</font></BR></BR><font face=times color=#0039b6 size=5>PROJECT GROUP - J</font></BR></BR><font face=times color=#30a72f size=5>DEVELOPED BY :- </font></BR></BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face=times color=#0039b6 size=4.8>HARSHAL BHAKTA</font></BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face=times color=#c41200 size=4.8>SHAZIA BEE</font></BR></BR><font face=times color=#c41200 size=5>INSTRUCTED BY :-</font></BR></BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face=times color=#0039b6 size=5>Joseph Waclawski</font></body></html> 
+
+closing socket
+
+ Closing Socket 
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+Server is now reading the Request
+
+ Listening for client 
+
+Begin the Socket : WSA
+
+Accept: text/html, application/xhtml+xml, */*
+
+
+Accept-Language: en-US
+
+
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+
+
+Accept-Encoding: gzip, deflate
+
+
+Host: localhost
+
+
+Connection: Keep-Alive
+
+
+ Extracting information from GET Message 
+
+ Generating Post Message Now 
+
+Checking if requested file exists or not
+
+File exists
+
+Reading file for HTML content
+
+Server is now creating the response
+
+HTTP/1.1202 OK
+
+Sat Dec 11 05:16:51 2010 EST
+
+Server: 127.0.0.1
+
+Connection: Keep-Alive
+
+Content-Type: text/html; charset=ISO-8859-1
+
+Content-Length: 2791
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>Homepage</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>Homepage</b></td></tr> <tr><td>&nbsp;</td><a href='/Homepage.html'>Home</a></tr></table> <H1>Welcome to Mini Web Server Homepage</H1> </br>Please select the below pages to test the web server sample pages.</br></br><a href='/PageOne.html'>First Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageTwo.html'>Second Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageThree.html'>Third Page</a></br><H1>Content</H1> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> <font face=times color=#0039b6 size=6>CIS 554 OBJECT ORIENTED PROGRAMMING IN C++ - FINAL PROJECT</font></BR></BR><font face=times color=#c41200 size=5>PROJECT NAME  - WEB SERVER</font></BR></BR><font face=times color=#0039b6 size=5>PROJECT GROUP - J</font></BR></BR><font face=times color=#30a72f size=5>DEVELOPED BY :- </font></BR></BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face=times color=#0039b6 size=4.8>HARSHAL BHAKTA</font></BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face=times color=#c41200 size=4.8>SHAZIA BEE</font></BR></BR><font face=times color=#c41200 size=5>INSTRUCTED BY :-</font></BR></BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face=times color=#0039b6 size=5>Joseph Waclawski</font></body></html> 
+
+closing socket
+
+ Closing Socket 
+
+Logger Mode is now set
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+ Listening for client 
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+Server is now reading the Request
+
+ Listening for client 
+
+Begin the Socket : WSA
+
+Logger Mode is now set
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+ Listening for client 
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+Server is now reading the Request
+
+ Listening for client 
+
+Logger Mode is now set
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+ Listening for client 
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+Server is now reading the Request
+
+ Listening for client 
+
+Begin the Socket : WSA
+
+Begin the Socket : WSA
+
+Host: localhost
+
+
+Server is now listening for client
+
+Server is now reading the Request
+
+Connection: keep-alive
+
+
+ Listening for client 
+
+Begin the Socket : WSA
+
+Cache-Control: max-age=0
+
+
+Accept: application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+
+
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.215 Safari/534.10
+
+
+Accept-Encoding: gzip,deflate,sdch
+
+
+Accept-Language: en-US,en;q=0.8
+
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+ Extracting information from GET Message 
+
+ Generating Post Message Now 
+
+Checking if requested file exists or not
+
+File exists
+
+Begin the Socket : WSA
+
+Reading file for HTML content
+
+Server is now listening for client
+
+Server is now reading the Request
+
+ Listening for client 
+
+Begin the Socket : WSA
+
+Server is now creating the response
+
+HTTP/1.1202 OK
+
+Sat Dec 11 05:37:35 2010 EST
+
+Server: 127.0.0.1
+
+Connection: keep-alive
+
+Content-Type: text/html; charset=ISO-8859-1
+
+Content-Length: 2791
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>Homepage</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>Homepage</b></td></tr> <tr><td>&nbsp;</td><a href='/Homepage.html'>Home</a></tr></table> <H1>Welcome to Mini Web Server Homepage</H1> </br>Please select the below pages to test the web server sample pages.</br></br><a href='/PageOne.html'>First Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageTwo.html'>Second Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageThree.html'>Third Page</a></br><H1>Content</H1> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> <font face=times color=#0039b6 size=6>CIS 554 OBJECT ORIENTED PROGRAMMING IN C++ - FINAL PROJECT</font></BR></BR><font face=times color=#c41200 size=5>PROJECT NAME  - WEB SERVER</font></BR></BR><font face=times color=#0039b6 size=5>PROJECT GROUP - J</font></BR></BR><font face=times color=#30a72f size=5>DEVELOPED BY :- </font></BR></BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face=times color=#0039b6 size=4.8>HARSHAL BHAKTA</font></BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face=times color=#c41200 size=4.8>SHAZIA BEE</font></BR></BR><font face=times color=#c41200 size=5>INSTRUCTED BY :-</font></BR></BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face=times color=#0039b6 size=5>Joseph Waclawski</font></body></html> 
+
+closing socket
+
+ Closing Socket 
+
+Host: localhost
+
+
+Connection: keep-alive
+
+
+Accept: */*
+
+
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.215 Safari/534.10
+
+
+Accept-Encoding: gzip,deflate,sdch
+
+
+Accept-Language: en-US,en;q=0.8
+
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+ Extracting information from GET Message 
+
+ Generating Post Message Now 
+
+Checking if requested file exists or not
+
+File does not exists
+
+File exists
+
+Reading file for HTML content
+
+Server is now creating the response
+
+HTTP/1.1 404 NOTFOUND
+
+Sat Dec 11 05:37:36 2010 EST
+
+Server: 127.0.0.1
+
+Connection: keep-alive
+
+Content-Type: text/html; charset=ISO-8859-1
+
+Content-Length: 1679
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>404 Not Found</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>Error</b></td></tr> <tr><td>&nbsp;</td></tr></table> <blockquote> <H1>404 Not Found</H1> The requested URL <code></code> was not found on this server. <p> </blockquote> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> </body></html> 
+
+closing socket
+
+ Closing Socket 
+
+Logger Mode is now set
+
+Begin the Socket : WSA
+
+Logger Mode is now set
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+ Listening for client 
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+Server is now reading the Request
+
+ Listening for client 
+
+Begin the Socket : WSA
+
+Host: localhost
+
+
+Connection: keep-alive
+
+
+Accept: application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+
+
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.215 Safari/534.10
+
+
+Accept-Encoding: gzip,deflate,sdch
+
+
+Accept-Language: en-US,en;q=0.8
+
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+ Extracting information from GET Message 
+
+ Generating Post Message Now 
+
+Checking if requested file exists or not
+
+File does not exists
+
+File exists
+
+Reading file for HTML content
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+ Listening for client 
+
+Server is now reading the Request
+
+Begin the Socket : WSA
+
+Server is now creating the response
+
+HTTP/1.1 404 NOTFOUND
+
+Sat Dec 11 06:14:06 2010 EST
+
+Server: 127.0.0.1
+
+Connection: keep-alive
+
+Content-Type: text/html; charset=ISO-8859-1
+
+Content-Length: 1679
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>404 Not Found</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>Error</b></td></tr> <tr><td>&nbsp;</td></tr></table> <blockquote> <H1>404 Not Found</H1> The requested URL <code></code> was not found on this server. <p> </blockquote> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> </body></html> 
+
+closing socket
+
+ Closing Socket 
+
+Host: localhost
+
+
+Connection: keep-alive
+
+
+Accept: */*
+
+
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.215 Safari/534.10
+
+
+Accept-Encoding: gzip,deflate,sdch
+
+
+Accept-Language: en-US,en;q=0.8
+
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+ Extracting information from GET Message 
+
+ Generating Post Message Now 
+
+Checking if requested file exists or not
+
+File does not exists
+
+File exists
+
+Reading file for HTML content
+
+Server is now creating the response
+
+HTTP/1.1 404 NOTFOUND
+
+Sat Dec 11 06:14:06 2010 EST
+
+Server: 127.0.0.1
+
+Connection: keep-alive
+
+Content-Type: text/html; charset=ISO-8859-1
+
+Content-Length: 1679
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>404 Not Found</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>Error</b></td></tr> <tr><td>&nbsp;</td></tr></table> <blockquote> <H1>404 Not Found</H1> The requested URL <code></code> was not found on this server. <p> </blockquote> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> </body></html> 
+
+closing socket
+
+ Closing Socket 
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+ Listening for client 
+
+Server is now reading the Request
+
+Begin the Socket : WSA
+
+
+Host: localhost
+
+
+Server is now listening for client
+
+Server is now reading the Request
+
+Connection: keep-alive
+
+ Listening for client 
+
+
+Begin the Socket : WSA
+
+Accept: application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+
+
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.215 Safari/534.10
+
+
+Accept-Encoding: gzip,deflate,sdch
+
+
+Accept-Language: en-US,en;q=0.8
+
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+ Extracting information from GET Message 
+
+ Generating Post Message Now 
+
+Checking if requested file exists or not
+
+File exists
+
+Reading file for HTML content
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+Server is now reading the Request
+
+ Listening for client 
+
+Begin the Socket : WSA
+
+Server is now creating the response
+
+HTTP/1.1202 OK
+
+Sat Dec 11 06:14:51 2010 EST
+
+Server: 127.0.0.1
+
+Connection: keep-alive
+
+Content-Type: text/html; charset=ISO-8859-1
+
+Content-Length: 2791
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>Homepage</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>Homepage</b></td></tr> <tr><td>&nbsp;</td><a href='/Homepage.html'>Home</a></tr></table> <H1>Welcome to Mini Web Server Homepage</H1> </br>Please select the below pages to test the web server sample pages.</br></br><a href='/PageOne.html'>First Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageTwo.html'>Second Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageThree.html'>Third Page</a></br><H1>Content</H1> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> <font face=times color=#0039b6 size=6>CIS 554 OBJECT ORIENTED PROGRAMMING IN C++ - FINAL PROJECT</font></BR></BR><font face=times color=#c41200 size=5>PROJECT NAME  - WEB SERVER</font></BR></BR><font face=times color=#0039b6 size=5>PROJECT GROUP - J</font></BR></BR><font face=times color=#30a72f size=5>DEVELOPED BY :- </font></BR></BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face=times color=#0039b6 size=4.8>HARSHAL BHAKTA</font></BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face=times color=#c41200 size=4.8>SHAZIA BEE</font></BR></BR><font face=times color=#c41200 size=5>INSTRUCTED BY :-</font></BR></BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face=times color=#0039b6 size=5>Joseph Waclawski</font></body></html> 
+
+closing socket
+
+ Closing Socket 
+
+Host: localhost
+
+
+Connection: keep-alive
+
+
+Accept: */*
+
+
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.215 Safari/534.10
+
+
+Accept-Encoding: gzip,deflate,sdch
+
+
+Accept-Language: en-US,en;q=0.8
+
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+ Extracting information from GET Message 
+
+ Generating Post Message Now 
+
+Checking if requested file exists or not
+
+File does not exists
+
+File exists
+
+Reading file for HTML content
+
+Server is now creating the response
+
+HTTP/1.1 404 NOTFOUND
+
+Sat Dec 11 06:14:52 2010 EST
+
+Server: 127.0.0.1
+
+Connection: keep-alive
+
+Content-Type: text/html; charset=ISO-8859-1
+
+Content-Length: 1679
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>404 Not Found</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>Error</b></td></tr> <tr><td>&nbsp;</td></tr></table> <blockquote> <H1>404 Not Found</H1> The requested URL <code></code> was not found on this server. <p> </blockquote> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> </body></html> 
+
+closing socket
+
+ Closing Socket 
+
+ Extracting information from GET Message 
+
+ Generating Post Message Now 
+
+Checking if requested file exists or not
+
+File does not exists
+
+File exists
+
+Reading file for HTML content
+
+Server is now creating the response
+
+ 404 NOTFOUND
+
+Sat Dec 11 06:15:56 2010 EST
+
+Server: 127.0.0.1
+
+Connection: 
+
+Content-Type: text/html; charset=ISO-8859-1
+
+Content-Length: 1679
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>404 Not Found</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>Error</b></td></tr> <tr><td>&nbsp;</td></tr></table> <blockquote> <H1>404 Not Found</H1> The requested URL <code></code> was not found on this server. <p> </blockquote> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> </body></html> 
+
+closing socket
+
+ Closing Socket 
+
+Logger Mode is now set
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+ Listening for client 
+
+Logger Mode is now set
+
+Begin the Socket : WSA
+
+Begin the Socket : WSA
+
+Server is now listening for client
+Server is now reading the Request
+
+
+ Listening for client 
+
+Begin the Socket : WSA
+
+Host: 192.168.200.22
+
+
+ Extracting information from GET Message 
+
+ Generating Post Message Now 
+
+Checking if requested file exists or not
+
+File does not exists
+
+File exists
+
+Reading file for HTML content
+
+Server is now creating the response
+
+HTTP/1.1 404 NOTFOUND
+
+Sat Dec 11 06:29:20 2010 EST
+
+Server: 127.0.0.1
+
+Connection: 
+
+Content-Type: text/html; charset=ISO-8859-1
+
+Content-Length: 1679
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>404 Not Found</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>Error</b></td></tr> <tr><td>&nbsp;</td></tr></table> <blockquote> <H1>404 Not Found</H1> The requested URL <code></code> was not found on this server. <p> </blockquote> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> </body></html> 
+
+closing socket
+
+ Closing Socket 
+
+Logger Mode is now set
+
+Begin the Socket : WSA
+
+Server is now listening for client
+
+ Listening for client 
+
+Begin the Socket : WSA
+
+Server is now reading the Request
+
+
+
+ Listening for client 
+
+Begin the Socket : WSA
+
+Host: localhost
+
+
+Connection: keep-alive
+
+
+Accept: application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+
+
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.215 Safari/534.10
+
+
+Accept-Encoding: gzip,deflate,sdch
+
+
+Accept-Language: en-US,en;q=0.8
+
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+ Extracting information from GET Message 
+
+ Generating Post Message Now 
+
+Checking if requested file exists or not
+
+Begin the Socket : WSA
+
+File exists
+
+Server is now listening for client
+
+Reading file for HTML content
+
+Server is now reading the Request
+
+ Listening for client 
+
+Begin the Socket : WSA
+
+Server is now creating the response
+
+HTTP/1.1202 OK
+
+Sat Dec 11 07:37:21 2010 EST
+
+Server: 127.0.0.1
+
+Connection: keep-alive
+
+Content-Type: text/html; charset=ISO-8859-1
+
+Content-Length: 2791
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>Homepage</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>Homepage</b></td></tr> <tr><td>&nbsp;</td><a href='/Homepage.html'>Home</a></tr></table> <H1>Welcome to Mini Web Server Homepage</H1> </br>Please select the below pages to test the web server sample pages.</br></br><a href='/PageOne.html'>First Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageTwo.html'>Second Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/PageThree.html'>Third Page</a></br><H1>Content</H1> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> <font face=times color=#0039b6 size=6>CIS 554 OBJECT ORIENTED PROGRAMMING IN C++ - FINAL PROJECT</font></BR></BR><font face=times color=#c41200 size=5>PROJECT NAME  - WEB SERVER</font></BR></BR><font face=times color=#0039b6 size=5>PROJECT GROUP - J</font></BR></BR><font face=times color=#30a72f size=5>DEVELOPED BY :- </font></BR></BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face=times color=#0039b6 size=4.8>HARSHAL BHAKTA</font></BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face=times color=#c41200 size=4.8>SHAZIA BEE</font></BR></BR><font face=times color=#c41200 size=5>INSTRUCTED BY :-</font></BR></BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face=times color=#0039b6 size=5>Joseph Waclawski</font></body></html> 
+
+closing socket
+
+ Closing Socket 
+
+Host: localhost
+
+
+Connection: keep-alive
+
+
+Accept: */*
+
+
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.215 Safari/534.10
+
+
+Accept-Encoding: gzip,deflate,sdch
+
+
+Accept-Language: en-US,en;q=0.8
+
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+ Extracting information from GET Message 
+
+ Generating Post Message Now 
+
+Checking if requested file exists or not
+
+File does not exists
+
+File exists
+
+Reading file for HTML content
+
+Server is now creating the response
+
+HTTP/1.1 404 NOTFOUND
+
+Sat Dec 11 07:37:22 2010 EST
+
+Server: 127.0.0.1
+
+Connection: keep-alive
+
+Content-Type: text/html; charset=ISO-8859-1
+
+Content-Length: 1679
+
+<html><head> <meta http-equiv="content-type" content="text/html;charset=utf-8"> <title>404 Not Found</title> <style><!--body {font-family: arial,sans-serif}div.nav {margin-top: 1ex}div.nav A {font-size: 10pt; font-family: arial,sans-serif}span.nav {font-size: 10pt; font-family: arial,sans-serif; font-weight: bold}div.nav A,span.big {font-size: 12pt; color: #0000cc}div.nav A {font-size: 10pt; color: black}A.l:link {color: #6f6f6f}A.u:link {color: green}//--></style> </head> <body text=#000000 bgcolor=#ffffff> <table border=0 cellpadding=2 cellspacing=0 width=100%><tr><td rowspan=3 width=1% nowrap> <b><font face=times color=#0039b6 size=10>M</font><font face=times color=#c41200 size=10>i</font><font face=times color=#f3c518 size=10>n</font><font face=times color=#0039b6 size=10>i</font><font face=times color=#30a72f size=10>W</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#c41200 size=10>b</font><font face=times color=#f3c518 size=10>S</font><font face=times color=#0039b6 size=10>e</font><font face=times color=#30a72f size=10>r</font><font face=times color=#0039b6 size=10>v</font><font face=times color=#c41200 size=10>e</font><font face=times color=#f3c518 size=10>r</font><font face=times color=#c41200 size=10></font>&nbsp;&nbsp;</b> <td>&nbsp;</td></tr> <tr><td bgcolor="#3366cc"><font face=arial,sans-serif color="#ffffff"><b>Error</b></td></tr> <tr><td>&nbsp;</td></tr></table> <blockquote> <H1>404 Not Found</H1> The requested URL <code></code> was not found on this server. <p> </blockquote> <table width=100% cellpadding=0 cellspacing=0><tr><td bgcolor="#3366cc"><img alt="" width=1 height=4></td></tr></table> </body></html> 
+
+closing socket
+
+ Closing Socket 
+

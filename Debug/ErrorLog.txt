@@ -1,0 +1,9 @@
+Sat Dec 11 05:36:44 2010
+Testing Error Log
+
+Sat Dec 11 05:37:55 2010
+Testing Error Log
+
+Sat Dec 11 05:39:16 2010
+invalid string position
+
